@@ -2,7 +2,7 @@
 title: El Julio
 subtitle: Página Personal
 layout: page
-hero_image: /jwaissman.github.io/img/banner_uni.jpg 
+hero_image: /img/banner_uni.jpg 
 hero_darken: true
 show_sidebar: false
 ---
