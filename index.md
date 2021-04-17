@@ -11,4 +11,4 @@ show_sidebar: false
 
 
 
-<img src="/jwaissman.github.io/img/MCDLogo.png" alt="drawing" width="300"/>
+<img src="/img/MCDLogo.png" alt="drawing" width="300"/>
